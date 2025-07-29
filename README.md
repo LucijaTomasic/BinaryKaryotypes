@@ -3,7 +3,7 @@
 
 This repository includes:            
 📊 Scripts for analyzing whole-chromosome copy number data  
-🧪 Simulations and model code for fitness landscape analysis  
+🧪 Numerical solutions of theoretical model for fitness landscape analysis  
 📁 Processed datasets used in the paper  
 📉 Code to reproduce all main and supplementary figures  
 
